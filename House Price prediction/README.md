@@ -95,7 +95,7 @@ Identified the numeric features most strongly correlated with sale price, includ
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/kaleab158/house-price-prediction.git
 cd house-price-prediction
 
 # Install dependencies
